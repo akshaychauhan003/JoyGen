@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "AI Resume Analyzer",
+    "description": "Analyze resumes and suggest missing skills for target job roles.",
+    "difficulty": "beginner",
+    "domains": ["nlp", "career", "web"],
+    "skills": ["python", "html", "css", "javascript"],
+    "time_weeks": 2,
+    "cluster": "career-tools"
+  },
+  {
+    "id": 2,
+    "title": "Fake News Detection Dashboard",
+    "description": "Classify news articles as real or fake using text-based features.",
+    "difficulty": "intermediate",
+    "domains": ["nlp", "classification", "media"],
+    "skills": ["python", "machine learning", "javascript"],
+    "time_weeks": 4,
+    "cluster": "nlp-intelligence"
+  },
+  {
+    "id": 3,
+    "title": "Personalized Study Planner",
+    "description": "Generate study schedules based on subjects, available hours, and goals.",
+    "difficulty": "beginner",
+    "domains": ["education", "planning", "web"],
+    "skills": ["python", "html", "css"],
+    "time_weeks": 2,
+    "cluster": "education-tools"
+  },
+  {
+    "id": 4,
+    "title": "Project Topic Recommender",
+    "description": "Recommend project topics to students using interests and skill level.",
+    "difficulty": "intermediate",
+    "domains": ["recommendation", "education", "nlp"],
+    "skills": ["python", "machine learning", "fastapi"],
+    "time_weeks": 4,
+    "cluster": "education-tools"
+  },
+  {
+    "id": 5,
+    "title": "Movie Recommendation App",
+    "description": "Suggest movies based on genre preferences and user ratings.",
+    "difficulty": "beginner",
+    "domains": ["recommendation", "entertainment", "web"],
+    "skills": ["python", "javascript", "html", "css"],
+    "time_weeks": 3,
+    "cluster": "recommenders"
+  },
+  {
+    "id": 6,
+    "title": "Career Path Predictor",
+    "description": "Recommend technology career paths from interests, skills, and aptitude.",
+    "difficulty": "intermediate",
+    "domains": ["recommendation", "career", "analytics"],
+    "skills": ["python", "machine learning", "sql"],
+    "time_weeks": 5,
+    "cluster": "career-tools"
+  },
+  {
+    "id": 7,
+    "title": "Spam Email Classifier",
+    "description": "Detect spam emails using text preprocessing and supervised learning.",
+    "difficulty": "beginner",
+    "domains": ["nlp", "classification", "security"],
+    "skills": ["python", "machine learning"],
+    "time_weeks": 3,
+    "cluster": "nlp-intelligence"
+  },
+  {
+    "id": 8,
+    "title": "Student Interest Clustering Tool",
+    "description": "Group students into clusters based on interests and suggest domain-specific projects.",
+    "difficulty": "advanced",
+    "domains": ["clustering", "education", "analytics"],
+    "skills": ["python", "machine learning", "pandas"],
+    "time_weeks": 6,
+    "cluster": "analytics-lab"
+  },
+  {
+    "id": 9,
+    "title": "Portfolio Feedback Assistant",
+    "description": "Review student portfolio descriptions and suggest improvements.",
+    "difficulty": "intermediate",
+    "domains": ["nlp", "career", "web"],
+    "skills": ["python", "fastapi", "html", "css"],
+    "time_weeks": 3,
+    "cluster": "career-tools"
+  },
+  {
+    "id": 10,
+    "title": "YouTube Comment Sentiment Analyzer",
+    "description": "Analyze sentiment of video comments and summarize audience mood.",
+    "difficulty": "intermediate",
+    "domains": ["nlp", "sentiment", "analytics"],
+    "skills": ["python", "machine learning", "javascript"],
+    "time_weeks": 4,
+    "cluster": "nlp-intelligence"
+  },
+  {
+    "id": 11,
+    "title": "Freelancer Project Matcher",
+    "description": "Match freelancers to projects using skills, budget, and domain tags.",
+    "difficulty": "advanced",
+    "domains": ["recommendation", "freelancing", "web"],
+    "skills": ["python", "fastapi", "sql", "machine learning"],
+    "time_weeks": 6,
+    "cluster": "recommenders"
+  },
+  {
+    "id": 12,
+    "title": "Smart Attendance Insight Tool",
+    "description": "Find attendance patterns and cluster student behavior for academic alerts.",
+    "difficulty": "advanced",
+    "domains": ["clustering", "education", "analytics"],
+    "skills": ["python", "pandas", "machine learning"],
+    "time_weeks": 5,
+    "cluster": "analytics-lab"
+  }
+]
